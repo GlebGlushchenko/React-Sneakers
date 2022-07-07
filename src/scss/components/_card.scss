@@ -1,0 +1,41 @@
+.card{
+  border: 2px solid #f8f8f8;
+  padding: 30px;
+  width: 100%;
+  max-width: 200px;
+  border-radius: 40px;
+  margin-right: 40px;
+  
+  
+
+  
+  &:last-child{
+    margin-right: 0px;
+  }
+
+  .price{
+    color: #BDBDBD;
+  }
+
+ h5{
+  font-weight: 400;
+  font-size: 14px;
+ }
+  
+
+
+}
+
+.sneakers{
+  width: 100%;
+  max-width: 133px;
+  height: auto;
+}
+
+.button{
+  background: #fff;
+  border: 1px solid #f2f2f2;
+  border-radius: 8px;
+  height: 32px;
+  width: 32px;
+}

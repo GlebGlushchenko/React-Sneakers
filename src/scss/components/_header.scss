@@ -1,16 +1,12 @@
 .header{
-  display: flex;
-  justify-content: space-between;
-  padding: 45px;
+  
   border-bottom: 1px solid #EAEAEA;
 }
 
 .header__content-left{
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  
 }
-
+.header__nav{}
 .header__logo{
   margin-right: 16px;
   
@@ -21,12 +17,8 @@
   
 }
 
-
-
 .header__nav-cart{
-  display: flex;
   margin-right: 30px;
-  justify-content: center;
   cursor: pointer;
   
   svg{
